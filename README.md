@@ -1,7 +1,3 @@
-# recipe-REST-API
-Recipe API project.
-
-
 # Recipe REST API
 
 REST API project used for sharing and finding recipes, written with Test Driven Development.
