@@ -4,6 +4,8 @@ REST API project used for sharing and finding recipes, written with Test Driven 
 
 This app handles user authentication, creating objects, filtering / sorting objects and uploading / viewing images.
 
+Frontend code in progress...
+
 
 ## Tech Stack
 
