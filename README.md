@@ -43,4 +43,8 @@ http://127.0.0.1:8000/api/docs/
 
 ```
 
+![image](https://user-images.githubusercontent.com/130234732/282883383-b6641b2b-7182-473c-88fc-1be953728447.png)
+
+![image](https://user-images.githubusercontent.com/130234732/282883803-9e14b795-7442-4018-8d26-32b030f50dc5.png)
+
 **Made by Tilda Johansson with guidance from Mark Winterbottom from London App Developer**
