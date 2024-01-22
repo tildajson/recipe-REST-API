@@ -22,11 +22,7 @@ Clone this repository.
 
 ```bash
 
-
-
 docker-compose up
-
-
 
 ```
 
@@ -34,11 +30,7 @@ docker-compose up
 
 ```bash
 
-
-
 http://127.0.0.1:8000/api/docs/
-
-
 
 ```
 
