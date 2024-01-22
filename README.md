@@ -16,7 +16,7 @@ React frontend code in progress
 
 ## Installation
 
-Clone this repository. You will need Docker installed and running.
+Clone this repository.
 
 #### To start server:
 
